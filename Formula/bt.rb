@@ -1,10 +1,10 @@
 class Bt < Formula
   desc "Tools for interacting with the Braintree API"
   homepage "https://github.com/wontruefree/braintree"
-  url "https://github.com/wontruefree/braintree/archive/v0.3.tar.gz"
-  sha256 "bdf92bc5c01b4d5e3b7e176c55fadd761dbe08363a01a184e6ab67cf04174e0d"
+  url "https://github.com/wontruefree/braintree/archive/v0.4.tar.gz"
+  sha256 "4feabbfd233bcdcb596201ce92208bb335028b9a568361f67efc9b955258c8f7"
   license "MIT"
-  version "0.3"
+  version "0.4"
   depends_on "crystal"
 
   bottle :unneeded
